@@ -1,7 +1,7 @@
 ﻿ 
 namespace NullPattern.Greeter;
 
-public interface IGreeting
+public interface IGreeter
 {
     /// <summary>
     /// Contract for the implemented Language

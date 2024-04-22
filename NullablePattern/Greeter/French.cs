@@ -1,7 +1,7 @@
 ﻿
 namespace NullPattern.Greeter;
 
-public class French : IGreeting
+public class French : IGreeter
 {
-    string IGreeting.Greet() => "Bonjour";
+    string IGreeter.Greet() => "Bonjour";
 }
